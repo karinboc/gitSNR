@@ -1,1 +1,3 @@
-try using git windowa with matlab files
+try using git windows with matlab files
+~~~~~~~~~~~~~~~~~~~
+
